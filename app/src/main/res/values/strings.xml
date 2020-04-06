@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2_CanadianDemocracy</string>
+    <string name="choose_your_legislature">Choose your legislature</string>
+    <string name="go">GO</string>
+    <string name="representative_name">TextView</string>
+    <string name="party_name">TextView</string>
+    <string name="personal_website">TextView</string>
+</resources>
